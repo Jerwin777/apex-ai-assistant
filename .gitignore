@@ -1,0 +1,32 @@
+# API Keys and Environment Files
+.env
+*.env
+
+# Virtual Environments
+gemini-env/
+mediapipe-env/
+myenv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Audio Files
+*.mp3
+*.wav
+*.m4a
+apex_voice_*
+
+# IDE Files
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
